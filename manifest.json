@@ -27,7 +27,7 @@
   "lang": "en-US",
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "none",
-  "theme_color": "none"
+  "background_color": "white",
+  "theme_color": "white"
   
 }
