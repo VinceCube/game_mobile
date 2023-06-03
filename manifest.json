@@ -1,17 +1,33 @@
 {
-  "name": "Bounce Game",
-  "short_name": "Bounce",
-  "description": "A fun bouncing game",
-  "icons": [
-    {
-      "src": "images/ball.png",
-      "sizes": "192x192",
+  "name": "bounce game",
+  "short_name": "Enjoy playing",
+  "icons": [{
+    "src": "images/logo-ccs-60.png",
+      "sizes": "60x60",
+      "type": "image/png",
+      "purpose": "any maskable"
+      
+    }, {
+      "src": "images/logo-ccs-90.png",
+      "sizes": "90x90",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }, {
+      "src": "images/logo-ccs-100.png",
+      "sizes": "100x100",
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ],
+    , {
+      "src": "images/logo-ccs-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }],
+  "lang": "en-US",
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000"
+  "background_color": "white",
+  "theme_color": "white"
+  
 }
